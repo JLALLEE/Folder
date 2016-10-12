@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     printf("HELLO JULIE LALLEE");
     scanf("%d",&age);
     printf("Tu as %d ans", age);
-    
+    cccccgulbhjlbj
     return (EXIT_SUCCESS);
 }
 

@@ -13,7 +13,10 @@
  */
 int main(int argc, char** argv) {
 
-    printf("HELLO JULIE");
+    int age;
+    printf("HELLO JULIE LALLEE");
+    scanf("%d",&age);
+    printf("Tu as %d ans", age);
     
     return (EXIT_SUCCESS);
 }

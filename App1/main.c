@@ -13,11 +13,16 @@
  */
 int main(int argc, char** argv) {
 
+
+    coucou();
+    return (EXIT_SUCCESS);
+}
+
+
+void coucou()
+{
     int age;
     printf("HELLO JULIE LALLEE");
     scanf("%d",&age);
     printf("Tu as %d ans", age);
-    cccccgulbhjlbj
-    return (EXIT_SUCCESS);
 }
-
